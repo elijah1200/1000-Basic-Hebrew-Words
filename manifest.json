@@ -1,0 +1,8 @@
+{
+  "name": "ヘブライ語1000語",
+  "short_name": "ヘブライ語1000",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
